@@ -1,4 +1,10 @@
-## Hi there 👋
+#### As you can guess, this is my GitHub prophile
+
+Ain't much to say right here in this space, but you can take a look at my repos. This is most of the work I do as a PhD candidate. If I write something, I'll post it here. 
+I believe in transparency and open access to most of what researchers do, so I'll just share all here.
+
+#### Contact
+Until I've done with my PhD you can contact me at: \code{leonardocefalobis@uniba.it}
 
 <!--
 **lcef97/lcef97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
